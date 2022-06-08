@@ -1,7 +1,9 @@
 # kickstarter-analysis
 Performing analysis on kickstarter data to uncover trends
+
 Overview of Project
-Using the Kickstarter dataset, I have prepared data to create campaign outcomes for client, Louise, to illustrate how her own play performed in comparison to other productions. 
+
+Using the Kickstarter dataset, I have prepared data and graphs to highlight campaign outcomes for client, Louise. I intend use historical data to illustrate how her own play performed in comparison to other productions, and to highlight the corrolation of launch date and fundraising goals to success and/or failure of theater productions. 
 
 ### Purpose
 
@@ -9,7 +11,7 @@ Project goal is to assist client in visualizing the available data to understand
 
 ## Analysis and Challenges
 
-The data sets included theater productions that were successful, cancelled, or failed and we set out to view each outcome based on fundraising goals as well as launch date.  Presenting the data findings to the client in line graph form will enable the client to make inferences about how each outcome was influenced by either launch date, and/or funding goals.
+The data sets include theater productions that were successful, cancelled, or failed and we set out to view each outcome based on fundraising goals as well as launch date.  Presenting the data findings to the client in line graph form will enable the client to make inferences about how each outcome was influenced by either launch date, and/or funding goals.
 
 ### Analysis of Outcomes Based on Launch Date
 
@@ -28,6 +30,7 @@ I would conclude that the best month to launch a successful theater production w
 
 - What can you conclude about the Outcomes based on Goals?
 I would conclude that the best 
+
 - What are some limitations of this dataset?
 The limitations of this dataset is that it does not take into account human likes and dislikes.  While it appears that more theater goers will attend shows in May and June, their tastes and likes and dislikes cannot be measured or predicted.  Future plays may be well funded and launched in May or June, but may still flop for various reasons (taste, talent, story) that cannot be measured in a dataset.
 
