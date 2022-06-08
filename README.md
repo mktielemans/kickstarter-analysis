@@ -7,7 +7,7 @@ Using the Kickstarter dataset, I have prepared data and graphs to highlight camp
 
 ### Purpose
 
-Project goal is to assist client in visualizing the available data to understand how  different theater and play campaigns fared in relation to their launch dates and their funding goals.  Presenting the data findings to the client in line graph form will enable the client to make inferences about how each outcome was influenced by either launch date, and/or funding goals.  The purpose is to arm the client with information to make future business decisions pursuant to the success, failure or likelihood of cancellation of prospective future plays based on actual historical launch date and fundraising goals data.
+The purpose of this project is to assist the client in visualizing he available data to understand how  theater and play campaigns fared in relation to their launch dates and funding goals.  In presenting the data findings to the client in line graph form I hope to enable the client to make inferences about how each outcome was influenced by either launch date, and/or funding goals.  The purpose is to arm the client with information to make future business decisions pursuant to the success, failure or likelihood of cancellation of  future plays based on actual historical launch date and fundraising goals data.
 
 ## Analysis and Challenges
 
