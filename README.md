@@ -19,9 +19,12 @@ May and June launch dates showed the most number of successful plays, with 111 a
 
 ### Analysis of Outcomes Based on Goals
 
+Projects whose fundraising goals were between $1,000 and $4,999 saw the most successful outcomes (388) than all other fundraising ranges.  Although the $1,000 - $4,999 range also saw the highest number of failed outcomes, the net success outcomes is still the highest of all ranges.  Therefore, plays with fundraising goals between $1,000 - $4,999 appear to corrollate with the most successful outcomes.
 
 
 ### Challenges and Difficulties Encountered
+
+The only challenges and difficulties encountered during this analysis was graphing incorrect formulaic outcomes.  With intense review and confirmation of correct formulas, corrections were made and the graphed data visually reinforced the outcomes.
 
 ## Results
 
@@ -29,10 +32,10 @@ May and June launch dates showed the most number of successful plays, with 111 a
 I would conclude that the best month to launch a successful theater production would be May as may returned 111 successful campaigns.  I would further conclude that since June, with 110 successful theater campaigns, was more successful due to the fact that June had 4 fewer failed campaigns than May.  
 
 - What can you conclude about the Outcomes based on Goals?
-I would conclude that the best 
+I would conclude that the range of fundraising goals in the $1,000-$4,999 range provides the highest historical successful outcomes.  This range appears to be the target range to produce a successful outcome based on goals.
 
 - What are some limitations of this dataset?
 The limitations of this dataset is that it does not take into account human likes and dislikes.  While it appears that more theater goers will attend shows in May and June, their tastes and likes and dislikes cannot be measured or predicted.  Future plays may be well funded and launched in May or June, but may still flop for various reasons (taste, talent, story) that cannot be measured in a dataset.
 
 - What are some other possible tables and/or graphs that we could create?
-
+Some other possible tables would be to sort by country in order to determine successful campaigns in the US vs. Great Britian.  Should the producer be considering funding a play in New York City, the data from Great Britian may not be useful in estimating the potential for successful campaigns on Broadway.
